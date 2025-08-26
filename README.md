@@ -34,7 +34,11 @@ Matplotlib → Data visualization (graphs, plots,ROC Curve)
 * *Evaluation Metrics:*
   * Accuracy Score
   * ROC Curve & AUC Score
- 
+
+## 📸 Sample Output  
+The ROC Curve shows the performance of the Logistic Regression model:  
+![ROC Curve]( https://github.com/Unnati-sao-34/breast-cancer-classification-ml/blob/2e3691075d5a624c4c6b181e776f17f363753db2/roc_curve.png
+)
 
 ## 📜 License
 
